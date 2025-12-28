@@ -1,0 +1,1088 @@
+airport name,ICAO code
+Kangerlussuaq,BGSF
+Akureyri,BIAR
+Reykjavik Keflavik,BIKF
+Reykjavik,BIKF
+Reykjavik City,BIRK
+Pristina ,BKPR
+Pristina,BKPR
+Pristina,BKPR 
+Edmonton,CYEG
+Halifax,CYHZ
+Montreal Mirabel,CYMX
+Ottawa,CYOW
+Montreal,CYUL
+Vancouver,CYVR
+Winnipeg,CYWG
+Calgary,CYYC
+Victoria,CYYJ
+Toronto,CYYZ
+Toronto Pearson,CYYZ
+Algiers,DAAG
+Constantine,DABC
+Oran,DAOO
+Adrar,DAUA
+Ghardaïa,DAUG
+Ghardaia,DAUG
+Hassi Messaoud ,DAUH
+Hassi Messaoud,DAUH
+Accra,DGAA
+Abidjan ,DIAP
+Abidjan,DIAP
+Abuja,DNAA
+Kano,DNKN
+Lagos,DNMM
+Port Harcourt,DNPO
+Monastir,DTMB
+Tunis,DTTA
+Djerba,DTTJ
+Antwerp,EBAW
+Brussels,EBBR
+Brussels ,EBBR
+Kortrijk,EBKT
+Liège,EBLG
+Ostend Bruges,EBOS
+Berlin Brandenburg,EDDB
+Berlin,EDDB
+Dresden,EDDC
+Erfurt,EDDE
+Frankfurt,EDDF
+Muenster Osnabrueck,EDDG
+Munster Osnabrück,EDDG
+Hamburg,EDDH
+Berlin Tempelhof,EDDI
+Cologne,EDDK
+Cologne ,EDDK
+Dusseldorf,EDDL
+Dusseldorf ,EDDL
+Munich,EDDM
+Munich ,EDDM
+Nuremberg,EDDN
+Leipzig,EDDP
+Saarbrücken,EDDR
+Stuttgart,EDDS
+Berlin Tegel,EDDT
+Hannover,EDDV
+Bremen,EDDW
+Lubeck,EDHL
+Dublin,EIDW
+Paderborn Lippstadt,EDLP
+Dusseldorf Weeze,EDLV
+Dortmund,EDLW
+Augsburg,EDMA
+Oberpfaffenhofen,EDMO
+Friedrichshafen,EDNY
+Tallinn,EETN
+Helsinki,EFHK
+Helsinki ,EFHK
+Ivalo,EFIV
+Kuusamo,EFKS
+Kittila,EFKT
+Kittila ,EFKT
+Kuopio,EFKU
+Lappeenranta,EFLP
+Oulu,EFOU
+Rovaniemi,EFRO
+Vaasa,EFVA
+Foula,EG42
+Belfast International,EGAA
+Belfast City,EGAC
+Derry,EGAE
+Birmingham,EGBB
+Manchester,EGCC
+Manchester ,EGCC
+Doncaster Sheffield,EGCN
+Campbeltown,EGEC
+Eday,EGED
+Fair Isle,EGEF
+North Ronaldsay,EGEN
+Papa Westray,EGEP
+Stronsay,EGER
+Sanday,EGES
+Lerwick Tingwall,EGET
+Westray,EGEW
+Cardiff,EGFF
+Cardiff ,EGFF
+Bristol,EGGD
+Liverpool,EGGP
+London Luton,EGGW
+Land's End,EGHC
+Plymouth,EGHD
+St Mary's Scilly Isles,EGHE
+Bournemouth,EGHH
+Southampton,EGHI
+Southampton ,EGHI
+Newquay,EGHQ
+Guernsey,EGJB
+Guernsey ,EGJB
+Jersey,EGJJ
+London Biggin Hill,EGKB
+London Gatwick,EGKK
+London Gatwick ,EGKK
+Douala,FKKD
+London City,EGLC
+London Heathrow,EGLL
+London Heathrow,EGLL 
+London Southend,EGMC
+Blackpool,EGNH
+Humberside,EGNJ
+Leeds Bradford,EGNM
+Chester,EGNR
+Isle of Man,EGNS
+Newcastle,EGNT
+Newcastle ,EGNT 
+Teesside,EGNV
+East Midlands,EGNX
+Kirkwall,EGPA
+Sumburgh,EGPB
+Wick,EGPC
+Aberdeen,EGPD
+Inverness,EGPE
+Glasgow,EGPF
+Edinburgh,EGPH
+Islay,EGPI
+Glasgow Prestwick,EGPK
+Benbecula,EGPL
+Dundee,EGPN
+Stornoway,EGPO
+Barra,EGPR
+Tiree,EGPU
+Unst,EGPW
+Cambridge,EGSC
+Norwich,EGSH
+London Stansted,EGSS
+St Athan,EGSY
+Exeter,EGTE
+Exeter ,EGTE
+Brize Norton,EGVN
+RAF Northolt,EGWU
+Falkland Islands,EGYP
+Amsterdam,EHAM
+Eindhoven,EHEH
+Lelystad,EHLE
+Rotterdam,EHRD
+Cork,EICK
+Galway,EICM
+Donegal,EIDL
+Dublin ,EIDW
+Knock Ireland West,EIKN
+Knock,EIKN
+Kerry,EIKY
+Shannon,EINN
+Shannon ,EINN
+Sligo,EISG
+Waterford,EIWF
+Aarhus,EKAH
+Billund,EKBI
+Copenhagen,EKCH
+Roskilde,EKRK
+Ronne,EKRN
+Thisted,EKTS
+Vágar Faroe Islands,EKVG
+Aalborg,EKYT
+Luxembourg,ELLX
+Alesund,ENAL
+Bergen,ENBR
+Harstad,ENEV
+Oslo,ENGM
+Haugesund,ENHD
+Kirkenes,ENKR
+Svalbard Longyearbyen,ENSB
+Tromsø,ENTC
+Trondheim,ENVA
+Stavanger,ENZV
+Stavanger ,ENZV
+Gdansk,EPGD
+Krakow,EPKK
+Katowice,EPKT
+Lodz,EPLL
+Poznan,EPPO
+Warsaw,EPWA
+Warsaw ,EPWA 
+Gothenburg,ESGG
+Malmö,ESMS
+Umeå,ESNU
+Arvidsjaur,ESNX
+Lulea,ESPA
+Stockholm Arlanda,ESSA
+Stockholm Bromma,ESSB
+Angelholm,ESTA
+Rostock,ETNL
+Liepaja,EVLA
+Riga,EVRA
+Kaunas,EYKA
+Vilnius,EYVI
+Vilnius ,EYVI
+Bloemfontein,FABL
+Cape Town,FACT
+East London,FAEL
+George,FAGG
+Hoedspruit,FAHS
+Kimberley,FAKM
+Nelspruit Kruger Mpumalanga,FAKN
+Durban,FALE
+Johannesburg,FAOR
+Gqeberha,FAPE
+Pietermaritzburg,FAPM
+Polokwane,FAPP
+Richard's Bay,FARB
+Sishen,FASS
+Skukuza,FASZ
+Upington,FAUP
+Mthatha,FAUT
+Kasane,FBKE
+Maun,FBMN
+Gaborone,FBSK
+Manzini Matsapha,FDMS
+Bangui,FEFF
+Malabo,FGSL
+Ascension Wide Awake,FHAW
+Saint Helena,FHSH
+Mauritius,FIMP
+Yaounde,FKYS
+Livingstone,FLHN
+Lusaka,FLKK
+Ndola,FLND
+St Denis de la Reunion,FMEE
+Luanda,FNLU
+Libreville,FOOL
+Maputo,FQMA
+Nampula,FQNP
+Seychelles,FSIA
+Bulawayo,FVBU
+Victoria Falls,FVFA
+Harare,FVRG
+Blantyre Chileka,FWCL
+Lilongwe,FWKI
+Walvis Bay,FYWB
+Windhoek,FYWH
+Kinshasa,FZAA
+Banjul,GBYD
+Fuerteventura,GCFV
+Fuerteventura ,GCFV
+La Gomera,GCGM
+El Hierro Valverde,GCHI
+La Palma,GCLA
+Las Palmas de Gran Canaria,GCLP
+Lanzarote,GCRR
+Tenerife South,GCTS
+Tenerife North,GCXO
+Tenerife North,GCXO 
+Melilla,GEML
+Freetown,GFLL
+Freetown ,GFLL
+Monrovia,GLRB
+Agadir,GMAD
+Fez,GMFF
+Errachidia,GMFK
+Oujda,GMFO
+Rabat,GMME
+Dakhla,GMMH
+Essaouira,GMMI
+Laayoune,GMML
+Casablanca,GMMN
+Casablanca ,GMMN
+Nador,GMMW
+Marrakech,GMMX
+Marrakesh,GMMX
+Ouarzazate,GMMZ
+Al Hoceima,GMTA
+Tetouan,GMTN
+Tangier,GMTT
+Dakar,GOBD
+Dakar Leopold,GOOY
+Nouakchott,GQNO
+Sal,GVAC
+Addis Ababa ,HAAB
+Addis Ababa,HAAB
+Mogadishu,HCMM
+Djibouti,HDAM
+Alexandria El Nouzha,HEAX
+Alexandria Borg El Arab,HEBA
+Cairo,HECA
+Hurghada,HEGN
+Luxor,HELX
+Luxor ,HELX
+Sharm el Sheikh,HESH
+Aswan,HESN
+Nairobi,HKJK
+Mombasa,HKMO
+Tripoli,HLLT
+Kigali,HRYR
+Kigali ,HRYR
+Khartoum ,HSSS
+Khartoum,HSSS
+Dar es Salaam,HTDA
+Dar es Salaam,HTDA 
+Kilimanjaro,HTKJ
+Zanzibar,HTZA
+Entebbe,HUEN
+Entebbe ,HUEN
+Abilene,KABI
+Albuquerque,KABQ
+Nantucket,KACK
+Waco,KACT
+Albany,KALB
+Amarillo,KAMA
+Atlanta,KATL
+Austin,KAUS
+Scranton,KAVP
+Kalamazoo,KAZO
+Hartford,KBDL
+Birmingham Alabama,KBHM
+Billings,KBIL
+Nashville,KBNA
+Boise,KBOI
+Boston,KBOS
+Brownsville,KBRO
+Baton Rouge,KBTR
+Burlington,KBTV
+Buffalo,KBUF
+Burbank,KBUR
+Baltimore,KBWI
+Bozeman,KBZN
+Columbia,KCAE
+Charleston,KCHS
+Charleston South Carolina,KCHS
+Cedar Rapids,KCID
+Cleveland,KCLE
+College Station,KCLL
+Charlotte,KCLT
+Columbus Ohio,KCMH
+Champagin,KCMI
+Colorado Springs,KCOS
+Corpus Christi,KCRP
+Columbus Georgia,KCSG
+Cincinnati,KCVG
+Wausau,KCWA
+Cheyenne,KCYS
+Dayton,KDAY
+Washington National,KDCA
+Denver,KDEN
+Dallas Fort Worth,KDFW
+Des Moines,KDSM
+Detroit,KDTW
+Eagle Vail,KEGE
+El Paso,KELP
+Eugene,KEUG
+Evansville,KEVV
+Newark,KEWR
+Key West,KEYW
+Fargo,KFAR
+Fresno,KFAT
+Fort Lauderdale,KFLL
+Florence,KFLO
+Flint,KFNT
+Sioux Falls,KFSD
+Fort Smith,KFSM
+Fort Wayne,KFWA
+Spokane,KGEG
+Spokane ,KGEG
+East Texas Regional,KGGG
+Grand Junction,KGJT
+Kalispell,KGPI
+Gulfport,KGPT
+Green Bay,KGRB
+Killeen,KGRK
+Grand Rapids,KGRR
+Greensboro,KGSO
+Greenville Spartanburg,KGSP
+Houston Hobby,KHOU
+Huntsville,KHSV
+Washington Dulles,KIAD
+Houston,KIAH
+Wichita,KICT
+Wilmington,KILM
+Indianapolis,KIND
+Jackson Hole,KJAC
+Jackson,KJAN
+Jacksonville,KJAX
+New York Kennedy,KJFK
+Las Vegas,KLAS
+Lawton,KLAW
+Los Angeles,KLAX
+Los Angeles ,KLAX
+Lubbock,KLBB
+Lake Charles,KLCH
+Lexington,KLEX
+Lafayette,KLFT
+New York LaGuardia,KLGA
+Little Rock,KLIT
+Laredo,KLRD
+La Crosse,KLSE
+Midland,KMAF
+Kansas City,KMCI
+Orlando,KMCO
+Harrisburg,KMDT
+Memphis,KMEM
+McAllen,KMFE
+Medford,KMFR
+Montgomery,KMGM
+Manhattan,KMHK 
+Miami,KMIA
+Milwaukee,KMKE
+Mobile,KMOB
+Madison,KMSN
+Missoula,KMSO
+Minneapolis,KMSP
+Minneapolis ,KMSP
+New Orleans,KMSY
+Montrose,KMTJ
+Martha's Vineyard,KMVY
+Myrtle Beach,KMYR
+Oakland ,KOAK
+Oakland,KOAK
+Oklahoma City,KOKC
+Omaha,KOMA
+Ontario,KONT
+Chicago O'Hare,KORD
+Norfolk,KORF
+West Palm Beach,KPBI
+Portland,KPDX
+Portland ,KPDX
+Philadelphia,KPHL
+Philadelphia ,KPHL
+Phoenix,KPHX
+Phoenix ,KPHX
+Peoria,KPIA
+Pittsburgh,KPIT
+Pensacola,KPNS
+Pasco,KPSC
+Palm Springs,KPSP
+Redmond,KRDM
+Raleigh Durham,KRDU
+Richmond,KRIC
+Reno,KRNO
+Rochester New York,KROC
+Roswell,KROW
+Rochester Minnesota,KRST
+Fort Myers,KRSW
+Santa Fe,KSAF
+San Diego,KSAN
+San Antonio,KSAT
+Savannah,KSAV
+Louisville,KSDF
+Seattle,KSEA
+Seattle ,KSEA
+San Francisco,KSFO
+San Francisco ,KSFO
+Springfield Missouri,KSGF
+Shreveport,KSHV
+San Jose California,KSJC
+San Angelo,KSJT
+Salt Lake City,KSLC
+Sacramento,KSMF
+Santa Ana,KSNA
+Springfield Illinois,KSPI
+Wichita Falls,KSPS
+St. Louis,KSTL
+Santa Rosa,KSTS
+Syracuse,KSYR
+Tallahassee,KTLH
+Toledo,KTOL
+Tampa,KTPA
+Tulsa,KTUL
+Tucson,KTUS
+Traverse City,KTVC
+Texarkana,KTXK
+Tyler,KTYR
+Knoxville,KTYS
+State College,KUNV
+Destin,KVPS
+Northwest Arkansas,KXNA
+Tirana,LATI
+Burgas,LBBG
+Bourgas,LBBG
+Sofia,LBSF
+Varna,LBWN
+Larnaca,LCLK
+Paphos,LCPH
+Dubrovnik,LDDU
+Pula,LDPL
+Split,LDSP
+Zagreb,LDZA
+Zadar,LDZD
+Alicante,LEAL
+Almeria,LEAM
+Almería,LEAM
+Asturias,LEAS
+Cordoba,LEBA
+Bilbao,LEBB
+Burgos,LEBG
+Barcelona,LEBL
+Badajoz,LEBZ
+Castellon,LECH
+A Coruña,LECO
+Lleida Alguaire,LEDA
+Girona,LEGE
+Granada,LEGR
+Huesca,LEHC
+Ibiza,LEIB
+Jerez de la Frontera,LEJR
+Murcia San Javier,LELC
+León,LELN
+Madrid,LEMD
+Malaga,LEMG
+Malaga ,LEMG
+Menorca Mahon,LEMH
+Murcia Corvera,LEMI
+Palma de Mallorca,LEPA
+Palma de Malloroca,LEPA
+Pamplona,LEPP
+La Rioja Logroño,LERJ
+Ciudad Real,LERL
+Reus,LERS
+Salamanca,LESA
+San Sebastian,LESO
+Santiago de Compostela,LEST
+Andorra La Seu de Urgel,LESU
+Teruel,LETL
+Valencia,LEVC
+Valladolid,LEVD
+Vitoria,LEVT
+Vigo,LEVX
+Santander,LEXJ
+Zaragoza,LEZG
+Seville,LEZL
+Le Touquet,LFAT
+Agen,LFBA
+Bordeaux,LFBD
+Bergerac,LFBE
+Bergerac ,LFBE
+La Rochelle,LFBH
+Poitiers,LFBI
+Limoges,LFBL
+Toulouse,LFBO
+Toulouse ,LFBO
+Pau Pyrenees,LFBP
+Lourdes,LFBT
+Biarritz,LFBZ
+Albi,LFCI
+Castres,LFCK
+Rodez,LFCR
+Colmar,LFGA
+Metz Nancy,LFJL
+Bastia,LFKB
+Calvi,LFKC
+Figari,LFKF
+Ajaccio,LFKJ
+Chambery,LFLB
+Clermont Ferrand,LFLC
+Lyon,LFLL
+Annecy,LFLP
+Grenoble,LFLS
+Chateauroux,LFLX
+Cannes,LFMD
+Carcassonne,LFMK
+Marseille,LFML
+Nice,LFMN
+Perpignan,LFMP
+Perpignan ,LFMP
+Montpellier,LFMT
+Chalons Vatry,LFOK
+Tours,LFOT
+Paris Le Bourget,LFPB
+Paris Charles de Gaulle,LFPG
+Paris Chales de Gaulle,LFPG
+Paris Orly,LFPO
+Lille,LFQQ
+Brest,LFRB
+Cherbourg,LFRC
+Dinard,LFRD
+Lorient South Brittany,LFRH
+Le Mans,LFRM
+Rennes,LFRN
+Lannion,LFRO
+Quimper,LFRQ
+Nantes,LFRS
+Saint Brieuc,LFRT
+Saint Nazaire,LFRZ
+Basel,LFSB
+Epinal Mirecourt,LFSG
+Brive La Gaillarde,LFSL
+Strasbourg,LFST
+Toulon,LFTH
+Nimes,LFTW
+Athens,LGAV
+Athens ,LGAV
+Heraklion,LGIR
+Kefalonia,LGKF
+Kalamata,LGKL
+Kos,LGKO
+Karpathos,LGKP
+Corfu,LGKR
+Lemnos,LGLM
+Mykonos,LGMK
+Preveza Lefkada,LGPZ
+Rhodes,LGRP
+Chania,LGSA
+Skiathos,LGSK
+Santorini,LGSR
+Thessaloniki,LGTS
+Zakynthos,LGZA
+Budapest,LHBP
+Bari,LIBD
+Brindisi,LIBR
+Lamezia Terme,LICA
+Comiso,LICB
+Catania,LICC
+Lampedusa,LICD
+Palermo,LICJ
+Alghero,LIEA
+Cagliari,LIEE
+Olbia,LIEO
+Milan Malpensa,LIMC
+Milan Bergamo,LIME
+Turin,LIMF
+Genoa,LIMJ
+Milan Linate,LIML
+Parma,LIMP
+Cuneo,LIMZ
+Bologna,LIPE
+Bologna ,LIPE
+Treviso,LIPH
+Brescia,LIPO
+Trieste,LIPQ
+Rimini,LIPR
+Verona,LIPX
+Ancona,LIPY
+Venice,LIPZ
+Rome Ciampino,LIRA
+Rome Fiumicino,LIRF
+Salerno,LIRI
+Naples,LIRN
+Pisa,LIRP
+Florence,LIRQ
+Perugia,LIRZ
+Ljubljana ,LJLJ
+Ljubljana,LJLJ
+Maribor,LJMB
+Ostrava,LKMT
+Prague,LKPR
+Tel Aviv,LLBG
+Malta,LMML
+Graz,LOWG
+Innsbruck,LOWI
+Klagenfurt,LOWK
+Linz,LOWL
+Salzburg,LOWS
+Salzburg ,LOWS
+Vienna,LOWW
+Vienna ,LOWW
+Faro,LPFR
+Faro ,LPFR
+Terceira Lajes,LPLA
+Madeira Funchal,LPMA
+Ponta Delgada,LPPD
+Porto,LPPR
+Porto Santo,LPPS
+Lisbon,LPPT
+Mostar,LQMO
+Sarajevo,LQSA
+Bucharest Baneasa,LRBS
+Cluj Napoca,LRCL
+Bucharest,LROP
+Geneva,LSGG
+Geneva ,LSGG
+Sion,LSGS
+Bern,LSZB
+Zurich,LSZH
+St Moritz,LSZS
+Ankara,LTAC
+Antalya,LTAI
+Konya,LTAN
+Sivas,LTAR
+Kayseri,LTAU
+Istanbul Ataturk,LTBA
+Izmir,LTBJ
+Dalaman,LTBS
+Mersin,LTDB
+Bodrum,LTFE
+Istanbul Sabiha Gökçen,LTFJ
+Istanbul International,LTFM
+Skopje,LWSK
+Gibraltar,LXGB
+Belgrade,LYBE
+Tivat,LYTV
+Bratislava,LZIB
+Providenciales,MBPV
+Punta Cana,MDPC
+Puerto Plata,MDPP
+Santo Domingo,MDSD
+Santiago de los Caballeros,MDST
+Guatemala City,MGGT
+San Pedro Sula,MHLM
+Comayagua Palmerola,MHPR
+Kingston,MKJP
+Montego Bay,MKJS
+Acapulco,MMAA
+Huatulco,MMBT
+Culiacan,MMCL
+Chetumal,MMCM
+Ciudad Juarez,MMCS
+Chihuahua,MMCU
+Cozumel,MMCZ
+Guadalajara,MMGL
+Hermosillo,MMHO
+Guanajuato,MMLO
+La Paz,MMLP
+Merida,MMMD
+Mexicali,MMML
+Morelia,MMMM
+Mexico City,MMMX
+Monterrey,MMMY
+Mazatlan,MMMZ
+Maztalan,MMMZ
+Nuevo Laredo,MMNL
+Oaxaca,MMOX
+Puerto Vallarta,MMPR
+Puerto Escondido,MMPS
+Reynosa,MMRX
+San Jose del Cabo,MMSD
+San Jose de Los Cabos,MMSD
+Los Cabos,MMSD
+Torreon,MMTC
+Tuxtla Gutierrez,MMTG
+Tijuana,MMTJ
+Tampico,MMTM
+Cancun,MMUN
+Villahermosa,MMVA
+Veracruz,MMVR
+Ixtapa Zihuatanejo,MMZH
+Ixatapa Zihuanatejo,MMZH
+Managua,MNMG
+Panama City,MPTO
+San Jose Costa Rica,MROC
+San Salvador,MSLP
+Port au Prince,MTPP
+Santiago de Cuba,MUCU
+Havana,MUHA
+Holguin,MUHG
+Varadero,MUVR
+Grand Cayman,MWCR
+Nassau,MYNN
+Belize City,MZBZ
+Nadi,NFFN
+Tahiti,NTAA
+Noumea La Tontouta,NWWW
+Auckland,NZAA
+Christchurch,NZCH
+Queenstown,NZQN
+Wellington,NZWN
+Bahrain ,OBBI
+Bahrain,OBBI
+Dammam ,OEDF
+Dammam,OEDF
+Dhahran,OEDR
+Al Qassim,OEGS
+Jeddah,OEJN
+Medina,OEMA
+Riyadh,OERK
+Taif,OETF
+Isfahan,OIFM
+Tehran Imam Khomeini,OIIE
+Tehran Mehrabad,OIII
+Mashhad,OIMM
+Shiraz,OISS
+Amman,OJAI
+Aqaba,OJAQ
+Kuwait,OKKK
+Beirut ,OLBA
+Beirut,OLBA
+Abu Dhabi,OMAA
+Abu Dhabi ,OMAA
+Dubai,OMDB
+Dubai ,OMDB
+Dubai World Central,OMDW
+Muscat,OOMS
+Salalah,OOSA
+Faisalabad,OPFA
+Islamabad,OPIS
+Karachi,OPKC
+Karachi ,OPKC
+Lahore,OPLA
+Lahore ,OPLA 
+Multan,OPMT
+Peshawar,OPPS
+Islamabad Benazir Bhutto,OPRN
+Sialkot,OPST
+Baghdad,ORBI
+Erbil,ORER
+Basra ,ORMM
+Al Najaf,ORNI
+Sulaimaniyah,ORSU
+Aleppo,OSAP
+Damascus ,OSDI
+Doha,OTHH
+Aden,OYAA
+Sana'a,OYSN
+Fairbanks,PAFA
+Juneau,PAJN
+Anchorage,PANC
+Kona,PHKO
+Lihue,PHLI
+Honolulu,PHNL
+Kahului,PHOG
+Taipei Taoyuan,RCTP
+Tokyo Narita,RJAA
+Osaka Kansai,RJBB
+Sapporo,RJCC
+Hakodate,RJCH
+Fukuoka,RJFF
+Kagoshima,RJFK
+Miyazaki,RJFM
+Oita,RJFO
+Kitakyushu,RJFR
+Kumamoto,RJFT
+Nagasaki,RJFU
+Nagoya,RJGG
+Nagoya Komaki,RJNA
+Komatsu,RJNK
+Hiroshima,RJOA
+Okayama,RJOB
+Izumo,RJOC
+Matsuyama,RJOM
+Osaka Itami,RJOO
+Tokyo Haneda,RJTT
+Seoul Incheon,RKSI
+Okinawa Naha,ROAH
+Clark,RPLC
+Manila,RPLL
+Davao City,RPMD
+Cebu Mactan,RPVM
+Cordoba,SACO
+Buenos Aires,SAEZ
+Mendoza,SAME
+Belem,SBBE
+Brasilia,SBBR
+Belo Horizonte,SBCF
+Campo Grande,SBCG
+Curitiba,SBCT
+Manaus,SBEG
+Iguassu Falls,SBFI
+Florianopolis,SBFL
+Fortaleza,SBFZ
+Rio de Janeiro,SBGL
+Goiana,SBGO
+Sao Paulo,SBGR
+Sao Paulo Viracopos,SBKP
+Londrina,SBLO
+Maceio,SBMO
+Navegantes,SBNF
+Porto Alegre,SBPA
+Recife,SBRF
+Rio de Janeiro Santos Dumont,SBRJ
+Natal,SBSG
+Salvador de Bahia,SBSV
+Uberlandia,SBUL
+Vitoria,SBVT
+Arica,SCAR
+Copiapo,SCAT
+Balmaceda,SCBA
+Calama,SCCF
+Punta Arenas,SCCI
+Iquique,SCDA
+Santiago de Chile,SCEL
+Antofagasta,SCFA
+Concepcion,SCIE
+Easter Island Mataveri,SCIP
+Temuco,SCQP
+La Serena,SCSE
+Puerto Montt,SCTE
+Cuenca,SECU
+Galapagos Islands,SEGS
+Guayaquil,SEGU
+Manta,SEMT
+Quito,SEQM
+Asuncion,SGAS
+Armenia,SKAR
+Bucaramanga,SKBG
+Bogota,SKBO
+Barranquilla,SKBQ
+Cucuta,SKCC
+Cartagena,SKCG
+Cali,SKCL
+Leticia,SKLT
+Monteria,SKMR
+Pereira,SKPE
+Medellin ,SKRG
+Medellin,SKRG
+Santa Marta,SKSM
+San Andres Island,SKSP
+El Yopal,SKYP
+La Paz El Alto,SLLP
+Viru Viru,SLVR
+Paramaribo,SMJP
+Cayenne,SOCA
+Pucallpa,SPCL
+Chiclayo,SPHI
+Ayacucho,SPHO
+Anta Huaraz,SPHZ
+Lima,SPJC
+Juliaca,SPJL
+Cajamarca,SPJR
+Ilo,SPLO
+Tumbes,SPME
+Iquitos,SPQT
+Arequipa,SPQU
+Trujillo,SPRU
+Tarapoto,SPST
+Tacna,SPTN
+Puerto Maldonado,SPTU
+Piura,SPUR
+Talara,SPYL
+Cuzco,SPZO
+Montevideo,SUMU
+Caracas,SVMI
+Caracas ,SVMI
+Georgetown Cheddi Jagan,SYCJ
+Antigua,TAPA
+Bridgetown,TBPB
+Barbados,TBPB
+Bridgetown ,TBPB
+Fort de France,TFFF
+Martinique Fort de France,TFFF
+Pointe a Pitre,TFFR
+Grenada,TGPY
+St. Thomas,TIST
+St. Croix,TISX
+San Juan,TJSJ
+St. Kitts,TKPK
+Saint Lucia,TLPL
+Aruba,TNCA
+Curacao,TNCC
+St Maarten,TNCM
+Tobago,TTCP
+Port of Spain,TTPP
+Bermuda,TXKF
+Almaty,UAAA
+Almaty ,UAAA
+Baku,UBBB
+Bishkek ,UCFM
+Yerevan,UDYZ
+Tbilisi,UGTB
+Tbilisi ,UGTB
+Kiev Borispol,UKBB
+Kharkiv,UKHH
+Kiev Zhuliany,UKKK
+St. Petersburg,ULLI
+Kaliningrad,UMKK
+Minsk,UMMS
+Krasnodar,URKK
+Sochi,URSS
+Yekaterinburg,USSS
+Ashgabat ,UTAA
+Tashkent,UTTT
+Tashkent ,UTTT
+Moscow Domodedovo,UUDD
+Moscow Sheremetyevo,UUEE
+Nizhny Novgorod,UWGG
+Kazan,UWKD
+Samara,UWWW
+Ahmedabad,VAAH
+Mumbai,VABB
+Vadodara,VABO
+Rajkot Hirasar,VAHS
+Indore,VAID
+Nagpur,VANP
+Pune,VAPO
+Colombo,VCBI
+Hambantota,VCRI
+Phnom Penh,VDPP
+Siem Reap,VDSR
+Bhubaneswar,VEBS
+Kolkata,VECC
+Dhaka,VGHS
+Hong Kong,VHHH
+Hong Kong Kai Tak,VHHX
+Amritsar,VIAR
+Chandigarh,VICG
+Delhi,VIDP
+Lucknow,VILK
+Bengaluru,VOBL
+Vijayawada,VOBZ
+Coimbatore,VOCB
+Kochi,VOCI
+Kozhikode Calicut,VOCL
+Goa Mopa,VOGA
+Goa,VOGO
+Goa Dabolim,VOGO
+Hyderabad,VOHS
+Chennai,VOMM
+Thiruvananthapuram,VOTV
+Visakhapatnam,VOVZ
+Malé,VRMM
+Bangkok Don Mueang,VTBD
+Bangkok Suvarnabhumi,VTBS
+U-Tapao Pattaya,VTBU
+Chiang Mai,VTCC
+Krabi,VTSG
+Koh Samui,VTSM
+Phuket,VTSP
+Da Nang,VVDN
+Hanoi,VVNB
+Ho Chi Minh City,VVTS
+Ho Chi Minh City,VVTS 
+Bali Denpasar,WADD
+Surabaya,WARR
+Bintulu,WBGB
+Kuching,WBGG
+Miri,WBGR
+Sibu,WBGS
+Kota Kinabalu,WBKK
+Labuan,WBKL
+Sandakan,WBKS
+Bandar Seri Begawan,WBSB
+Jakarta Halim Perdanakusuma,WIHH
+Jakarta,WIII
+Jakarta ,WIII
+Medan Kualanamu,WIMM
+Alor Setar,WMKA
+Kota Bharu,WMKC
+Kuantan,WMKD
+Johor Bahru,WMKJ
+Kuala Lumpur,WMKK
+Kuala Lumpur ,WMKK
+Langkawi,WMKL
+Kuala Terengganu,WMKN
+Penang,WMKP
+Kuala Lumpur Subang,WMSA
+Singapore,WSSS
+Brisbane,YBBN
+Gold Coast,YBCG
+Cairns,YBCS
+Coffs Harbour,YCFS
+Albury,YMAY
+Hobart,YMHB
+Melbourne,YMML
+Adelaide ,YPAD
+Adelaide,YPAD
+Darwin,YPDN
+Perth,YPPH
+Canberra,YSCB
+Sydney,YSSY
+Beijing Capital,ZBAA
+Beijing Daxing,ZBAD
+Guangzhou,ZGGG
+Nanning,ZGNN
+Shenzhen,ZGSZ
+Zhengzhou,ZHCC
+Wuhan ,ZHHH
+Wuhan,ZHHH
+Sanya,ZJSY
+Xian,ZLXY
+Kunming,ZPPP
+Hangzhou,ZSHC
+Shanghai Pudong,ZSPD
+Qingdao,ZSQD
+Chongqing,ZUCK
+Chengdu Tianfu,ZUTF
+Chengdu Shuangliu,ZUUU
+Urumqi,ZWWW
+Changchun,ZYCC
+Daqing Sartu,ZYDQ
+Qingdao,ZYDQ
+Harbin,ZYHB
+Dalian,ZYTL
+Dailan,ZYTL
+Shenyang,ZYTX
